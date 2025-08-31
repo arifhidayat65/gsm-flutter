@@ -1,4 +1,4 @@
-package com.example.apps_pajak
+package id.epajak.app
 
 import io.flutter.embedding.android.FlutterActivity
 
