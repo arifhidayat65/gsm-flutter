@@ -56,6 +56,10 @@ android {
         release {
             // Use release keystore if provided, else fall back to debug signing
             signingConfig = if (keystorePropertiesFile.exists()) signingConfigs.getByName("release") else signingConfigs.getByName("debug")
+            ndk {
+                // Disable native debug symbols generation/stripping to avoid NDK strip issues
+                debugSymbolLevel = "none"
+            }
         }
     }
 
@@ -63,6 +67,8 @@ android {
     packaging {
         jniLibs {
             keepDebugSymbols += setOf("**/*.so")
+            // Disable stripping native symbols in bundle/APK to avoid NDK path issues
+            doNotStrip += setOf("**/*.so")
         }
     }
 }
