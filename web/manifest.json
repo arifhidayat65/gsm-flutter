@@ -1,6 +1,6 @@
 {
-    "name": "gsmpromo",
-    "short_name": "gsmpromo",
+    "name": "apps_pajak",
+    "short_name": "apps_pajak",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

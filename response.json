@@ -1,0 +1,20 @@
+{
+    "status": true,
+    "data": {
+        "nopol": "T 2788 SN",
+        "merk": "YAMAHA",
+        "model": "B6H-F A/T",
+        "tahun": 2021,
+        "pajak": {
+            "pkbPokok": 236100,
+            "pkbDenda": 0,
+            "swdklljPokok": 35000,
+            "swdklljDenda": 0,
+            "opsenPokok": 155900,
+            "opsenDenda": 0,
+            "totalPajak": 427000,
+            "tglAkhirPkb": "2026-06-28",
+            "aktif": true
+        }
+    }
+}

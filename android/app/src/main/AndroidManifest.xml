@@ -1,6 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Media permissions for accessing user photos/videos on Android 13+ -->
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <!-- Storage permission removed: relying on system share/save flows -->
     <application
-        android:label="gsmpromo"
+        android:label="e-pajak"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
