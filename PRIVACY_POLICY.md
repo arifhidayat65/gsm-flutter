@@ -37,6 +37,6 @@ Keamanan
 - Kami menyarankan untuk tidak membagikan PDF ke pihak yang tidak Anda percayai.
 
 Kontak
-Untuk pertanyaan terkait privasi, hubungi: support@contoh-domain.com
+Untuk pertanyaan terkait privasi, hubungi: soakiyoshi@gmail.com
 
 Catatan: Sesuaikan alamat email di atas dan informasi yang relevan sebelum dipublikasikan ke Play Store.
