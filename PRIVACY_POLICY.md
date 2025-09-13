@@ -1,7 +1,7 @@
-Kebijakan Privasi – e‑pajak
+Kebijakan Privasi RanMor
 Terakhir diperbarui: 2025‑01‑01
 
-Aplikasi e‑pajak membantu Anda memeriksa informasi pajak kendaraan bermotor.
+Aplikasi RanMor membantu Anda memeriksa informasi pajak kendaraan bermotor.
 Kami berkomitmen untuk melindungi privasi Anda. Dokumen ini menjelaskan data apa
 saja yang diproses aplikasi dan bagaimana penggunaannya.
 

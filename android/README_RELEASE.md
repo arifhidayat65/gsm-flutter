@@ -1,4 +1,4 @@
-Android release checklist (e-pajak)
+Android release checklist (RanMor)
 
 1) Generate upload keystore (once)
 
@@ -19,7 +19,7 @@ Android release checklist (e-pajak)
 
 4) Play Console
 
-   - Create app “e-pajak”
+   - Create app “RanMor”
    - Fill Store Listing, graphics, privacy policy URL
    - Upload AAB to Internal testing and roll out
    - Complete Data Safety, Content rating, target audience
